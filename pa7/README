@@ -1,0 +1,13 @@
+// Cole Watts
+// comwatts
+// pa7: README
+// README for pa7
+
+Files:
+
+1) Dictionary.c             Client program for Dictionary ADT
+2) Dictionary.h             Header file for Dictionary ADT
+3) DictionaryTest.c         Test client for Dictionary
+4) Order.c                  Implementation file for Dictionary ADT
+5) Makefile                 Makefile for CSE 101 Programming Assignment 7
+6) README                   Lists each file submitted along with a brief description of its role in the project

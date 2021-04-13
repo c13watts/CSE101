@@ -1,0 +1,13 @@
+// Cole Watts
+// comwatts
+// pa1: README
+// README for pa1 
+
+Files:
+
+1) List.h                       Header file for List ADT
+2) List.c                       Implementation file for List ADT
+3) ListClient.c                 Test client for List ADT
+4) Lex.c                        Arranges input text in alpabetical order
+5) Makefile                     Makefile for CSE 101 Programming Assignment 1
+6) README                       Lists each file submitted along with a brief description of its role in the project

@@ -1,0 +1,14 @@
+// Cole Watts
+// comwatts
+// pa5: README
+// README for pa5
+
+Files:
+
+1) List.cpp                     Implementation file for List ADT
+2) List.h                       Header file for List ADT
+3) ListTest.cpp                 A test client for List ADT
+4) Shuffle.cpp                  Client program for List ADT
+5) Makefile                     Makefile for CSE 101 Programming Assignment 5
+6) README                       Lists each file submitted along with a brief description of its role in the project
+

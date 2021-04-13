@@ -1,0 +1,16 @@
+// Cole Watts
+// comwatts
+// pa2: README
+// README for pa2
+
+Files:
+
+1) List.h                           Header file for List ADT
+2) List.c                           Implementation file for List ADT
+3) Arithmetic.c                     Top level client for the project
+4) BigInteger.c                     BigInteger implementation file
+5) BigInteger.h                     BigInteger header file
+6) BigIntegerTest.c                 Test suite for the BigInteger ADT
+7) ListTest.c                       Test client for List ADT
+8) Makefile                         Makefile for CSE 101 Programming Assignment 2
+9) README                           Lists each file submitted along with a brief description of its role in the project
